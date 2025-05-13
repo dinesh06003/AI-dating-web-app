@@ -31,7 +31,7 @@ This is an AI-powered dating application inspired by Tinder. It generates intell
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/dinesh06003/tinder-with-ai.git
+git clone https://github.com/dinesh06003/AI-dating-web-app.git
 cd tinder-with-ai
 ```
 
