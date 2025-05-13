@@ -32,7 +32,7 @@ This is an AI-powered dating application inspired by Tinder. It generates intell
 
 ```bash
 git clone https://github.com/dinesh06003/AI-dating-web-app.git
-cd tinder-with-ai
+cd AIDatingBackend
 ```
 
 ### 2. Start services with Docker
@@ -50,7 +50,7 @@ This starts:
 ### 4. Start the frontend (React)
 
 ```bash
-cd tinder-ai-frontend
+cd AIDatingFrontend
 npm install
 npm run dev
 ```
